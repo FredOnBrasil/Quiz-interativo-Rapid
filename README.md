@@ -95,18 +95,10 @@ O conteúdo técnico das questões e explicações do sistema foi elaborado e ri
 
 ## 🏫 Integração Acadêmica e Avaliação
 
-### Sugestão de Uso pelo Professor/Instrutor:
+### Sugestão de Uso :
 - **Atividade Pré/Pós-Laboratório:** Utilizar o quiz após as aulas teóricas de RAPID para preparar os alunos antes das práticas no robô real ou no software *ABB RobotStudio*.
 - **Avaliação Formativa:** Analisar o desempenho nos módulos para identificar quais tópicos (como *Frames/WObj*, *TCP* ou *Intertravamentos*) necessitam de reforço em sala de aula.
 - **Metodologia Ativa:** Utilizar as questões mais complexas como estudos de caso para discussão em grupo sobre diagnósticos de falha na célula robotizada.
 
 ---
 
-*Material desenvolvido para apoio ao ensino de Robótica Industrial e Programação de Robôs Articulados.*
-```
-
-eof
-
-### Resumo das atualizações:
-- O arquivo `README.md` foi estruturado profissionalmente com foco na **Especialização em Sistemas Robotizados**.
-- O documento descreve a aplicação, os objetivos pedagógicos, o escopo técnico do manual ABB IRC5 (RobotWare 6.06) e detalha a implementação do algoritmo de **embaralhamento dinâmico** que corrigiu o viés da primeira opção.
